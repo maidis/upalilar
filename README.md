@@ -46,6 +46,9 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 ## [I](#ii)
 
 ## [İ](#i)
+### İstanbul Büyükşehir Belediyesi
+* [Şehir Haritası API](http://sehirharitasi.ibb.gov.tr/developer/v1/)
+
 ### İzlesene.com
 * [İzlesene API](https://www.izlesene.com/izapi): Şu anda "VIDEO API Hizmetimiz yakında yayına girecektir." deniliyor.
 
