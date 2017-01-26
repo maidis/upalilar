@@ -29,6 +29,9 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 * [Diyanet İşleri Başkanlığı Namaz Vakitleri API](http://www.diyanet.gov.tr/tr/PrayerTime/PrayerTimesList): Doğrudan bir UPA sunuyor mu emin değilim
 * [GitHub'daki çeşitli resmi olmayan UPA'lar](https://github.com/search?o=desc&q=diyanet&s=updated&type=Repositories&utf8=%E2%9C%93=)
 
+### Doviz.com
+* [Doviz.com Api](https://github.com/prosman/dovizcom-api)
+
 ## [E](#e)
 
 ## [F](#f)
