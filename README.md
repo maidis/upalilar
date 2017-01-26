@@ -98,6 +98,8 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 ## [V](#v)
 
 ## [Y](#y)
+### Yapay Tech
+* [Dahi API](http://www.yapaytech.com/dahiapi.html)
 
 ## [Z](#z)
 ### Zomato
