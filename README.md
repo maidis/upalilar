@@ -30,7 +30,7 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 * [GitHub'daki çeşitli resmi olmayan UPA'lar](https://github.com/search?o=desc&q=diyanet&s=updated&type=Repositories&utf8=%E2%9C%93=)
 
 ### Doviz.com
-* [Doviz.com Api](https://github.com/prosman/dovizcom-api)
+* [Doviz.com API](https://github.com/prosman/dovizcom-api)
 
 ## [E](#e)
 
@@ -100,6 +100,8 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 ## [Y](#y)
 
 ## [Z](#z)
+### Zomato
+* [Zomato API](https://developers.zomato.com/?lang=tr)
 
 ## [0-9](#0)
 
