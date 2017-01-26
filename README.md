@@ -52,6 +52,11 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 ### İstanbul Büyükşehir Belediyesi
 * [Şehir Haritası API](http://sehirharitasi.ibb.gov.tr/developer/v1/)
 
+### iyzico
+* [iyzi BIN Kontrol](https://www.iyzico.com/cozumlerimiz/iyzi-bin-kontrol/)
+* [iyzico - GitHub](https://github.com/iyzico)
+* [iyzico ödeme API’si](https://dev.iyzipay.com/tr)
+
 ### İzlesene.com
 * [İzlesene API](https://www.izlesene.com/izapi): Şu anda "VIDEO API Hizmetimiz yakında yayına girecektir." deniliyor.
 
