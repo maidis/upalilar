@@ -60,6 +60,9 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 ### İstanbul Büyükşehir Belediyesi
 * [Şehir Haritası API](http://sehirharitasi.ibb.gov.tr/developer/v1/)
 
+### İşte Oyun
+* [İşte Oyun API](http://www.isteoyun.com/gelistiriciler/)
+
 ### iyzico
 * [iyzi BIN Kontrol](https://www.iyzico.com/cozumlerimiz/iyzi-bin-kontrol/)
 * [iyzico - GitHub](https://github.com/iyzico)
@@ -141,6 +144,8 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 * [API'lerinizi nasıl dökümante edersiniz?](https://blog.kodcu.com/2014/06/api-lerinizi-nasil-dokumante-edersiniz/)
 * [Herkes RESTful Web API tasarlayabilir](http://fehmicansaglam.net/herkes-restful-web-api-tasarlayabilir/)
 * [Restful Api Best Practises](http://kimkorkarjavadan.com/restful-api-best-practises/)
+* [Kullanılabilir Uygulama Programlama Arayüzleri](http://www.emo.org.tr/ekler/1db5dd8fa2d87e7_ek.pdf)
+* [import.io Uygulama Programlama Arayüzü](https://mevlutcanvar.com.tr/import-io-uygulama-programlama-arayuzu/272)
 
 ## Bankacılık
 * [Bankalar API’larını açma konusunda istekli](http://odemeteknolojileri.com/2016/10/bankalar-apilarini-acma-konusunda-istekli/)
