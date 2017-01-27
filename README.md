@@ -7,7 +7,7 @@ Tüm dünyadan UPA sunan servisleri listeleyen bu amaca özel bir site var mı d
 
 Bu arada UPA'lar hakkında hiçbir uzmanlığım bulunmamaktadır. UPA olmayan bir şeye UPA dersem veya başka hatalar yaparsam düzeltmekten lütfen çekinmeyin.
 
-Listenenin daha işe yarar olması için Türkiye'de yaygın olarak kullanılan, UPA'ları hakkında Türkçe geliştirme belgeleri sunan servisleri de listeye ekliyorum şimdiden.
+Listenin daha işe yarar olması için Türkiye'de yaygın olarak kullanılan, UPA'ları hakkında Türkçe geliştirme belgeleri sunan servisleri de listeye ekliyorum şimdiden.
 
 Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi olmadığını belirterek ekleyeceğim.
 
@@ -40,11 +40,14 @@ Keşke Ekşi Sözlük'teki başlığın güncel halini bir okusaydım önce, kon
 * [Doviz.com API](https://github.com/prosman/dovizcom-api)
 
 ## [E](#e)
-* [EkşiSözlük API](https://github.com/eksisozluk/api)
+### Ekşi Sözlük 
+* [EkşiSözlük API](https://github.com/eksisozluk/api): Resmi değil
 
+### En Son Haber
 * [Ensonhaber.com API](https://github.com/prosman/ensonhabercom-api): Resmi değil
 
 ## [F](#f)
+### Fanatik
 * [Fanatik.com API](https://github.com/prosman/fanatik-api): Resmi değil
 
 ## [G](#g)
@@ -114,14 +117,14 @@ Keşke Ekşi Sözlük'teki başlığın güncel halini bir okusaydım önce, kon
 ## [Ş](#ss)
 
 ## [T](#t)
+### TRT Haber
+* [Trthaber.com API](https://github.com/prosman/TRT-Haber-Api): Resmi değil
+
 ### Turkcell
 * [Turkcell API](https://api-portal.turkcell.com.tr/)
 * [Turkcell API Dünyası - Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/turkcell-api)
 * [Turkcell Akıllı Yetenekler API](https://turkcellpartner.com/CustomContent.aspx?contentId=5e87f1ca-8c52-408f-bc5b-ad86824023c4)
 * [Turkcell - GitHub](https://github.com/Turkcell)
-
-### TRT Haber
-* [Trthaber.com API](https://github.com/prosman/TRT-Haber-Api): Resmi değil
 
 ## [U](#u)
 
