@@ -37,6 +37,9 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 ## [F](#f)
 
 ## [G](#g)
+### GaniPara
+* [Ganipara API](http://ganipara.com/api)
+
 ### GittiGidiyor
 * [GittiGidiyor API](http://dev.gittigidiyor.com/)
 
@@ -63,6 +66,8 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 ## [J](#j)
 
 ## [K](#k)
+### kisa.link
+* [Kısa Link API](http://www.kisa.link/api.html)
 
 ## [L](#l)
 
@@ -118,3 +123,9 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 * [API veya Platform Sunan Türk Web Servisleri - Ahmet Alp Balkan](https://ahmetalpbalkan.com/blog/api-veya-platform-sunan-turk-web-servisleri/)
 * [Webrazzi api arşivleri](http://webrazzi.com/etiket/api/)
 * [IBM - API Ekonomisi](http://www.ibm.com/middleware/integration/tr-tr/api-economy.html)
+* [Bankalar API’larını açma konusunda istekli](http://odemeteknolojileri.com/2016/10/bankalar-apilarini-acma-konusunda-istekli/)
+* [API kullanımının şirketler için stratejik değeri](http://www.cio.com.tr/etkinlik/api-kullaniminin-sirketler-icin-stratejik-degeri/)
+* [Nefret Etmeyeceğiniz Uygulama Programlama Arayüzleri (API) İnşa Edin](https://leanpub.com/build-apis-you-wont-hate-tr)
+* [API'lerinizi nasıl dökümante edersiniz?](https://blog.kodcu.com/2014/06/api-lerinizi-nasil-dokumante-edersiniz/)
+* [Herkes RESTful Web API tasarlayabilir](http://fehmicansaglam.net/herkes-restful-web-api-tasarlayabilir/)
+* 
