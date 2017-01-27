@@ -42,7 +42,10 @@ Keşke Ekşi Sözlük'teki başlığın güncel halini bir okusaydım önce, kon
 ## [E](#e)
 * [EkşiSözlük API](https://github.com/eksisozluk/api)
 
+* [Ensonhaber.com API](https://github.com/prosman/ensonhabercom-api): Resmi değil
+
 ## [F](#f)
+* [Fanatik.com API](https://github.com/prosman/fanatik-api): Resmi değil
 
 ## [G](#g)
 ### GaniPara
@@ -116,6 +119,9 @@ Keşke Ekşi Sözlük'teki başlığın güncel halini bir okusaydım önce, kon
 * [Turkcell API Dünyası - Geleceği Yazanlar](https://gelecegiyazanlar.turkcell.com.tr/turkcell-api)
 * [Turkcell Akıllı Yetenekler API](https://turkcellpartner.com/CustomContent.aspx?contentId=5e87f1ca-8c52-408f-bc5b-ad86824023c4)
 * [Turkcell - GitHub](https://github.com/Turkcell)
+
+### TRT Haber
+* [Trthaber.com API](https://github.com/prosman/TRT-Haber-Api): Resmi değil
 
 ## [U](#u)
 
