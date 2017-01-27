@@ -19,10 +19,15 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 * [Akbank API](http://www.akbank.com/apiportal)
 
 ## [B](#b)
+### BTCTurk
+* [BTCTurk API](https://www.btcturk.com/api/ticker)
+* [BTCTurk API](https://web.archive.org/web/20150402170217/https://btcturk.com/yardim/api-home-page)
 
 ## [C](#c)
 
 ## [Ç](#cc)
+### Çevir.com
+* [Çevir.com İngilizce - Türkçe Sözlük API'si](http://www.xn--evir-zoa.com/api)
 
 ## [D](#d)
 ### Diyanet İşleri Başkanlığı
@@ -68,6 +73,11 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 ## [K](#k)
 ### kisa.link
 * [Kısa Link API](http://www.kisa.link/api.html)
+
+### Koinim
+* [Koinim Ticker API](https://koinim.com/ticker/)
+* [koinim.com API kullanımı (PHP, Perl)](http://www.ahmetkakacak.com.tr/?a=135): Resmi değil
+* [Koinim-Python-API](https://github.com/cemkiy/Koinim-Python-API): Resmi değil
 
 ## [L](#l)
 
@@ -120,12 +130,18 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 ## [Q, W, X](#q)
 
 # Kaynaklar ve Yararlı Bağlantılar
+## Genel
 * [API veya Platform Sunan Türk Web Servisleri - Ahmet Alp Balkan](https://ahmetalpbalkan.com/blog/api-veya-platform-sunan-turk-web-servisleri/)
 * [Webrazzi api arşivleri](http://webrazzi.com/etiket/api/)
 * [IBM - API Ekonomisi](http://www.ibm.com/middleware/integration/tr-tr/api-economy.html)
-* [Bankalar API’larını açma konusunda istekli](http://odemeteknolojileri.com/2016/10/bankalar-apilarini-acma-konusunda-istekli/)
 * [API kullanımının şirketler için stratejik değeri](http://www.cio.com.tr/etkinlik/api-kullaniminin-sirketler-icin-stratejik-degeri/)
+
+## Geliştirme
 * [Nefret Etmeyeceğiniz Uygulama Programlama Arayüzleri (API) İnşa Edin](https://leanpub.com/build-apis-you-wont-hate-tr)
 * [API'lerinizi nasıl dökümante edersiniz?](https://blog.kodcu.com/2014/06/api-lerinizi-nasil-dokumante-edersiniz/)
 * [Herkes RESTful Web API tasarlayabilir](http://fehmicansaglam.net/herkes-restful-web-api-tasarlayabilir/)
-* 
+* [Restful Api Best Practises](http://kimkorkarjavadan.com/restful-api-best-practises/)
+
+## Bankacılık
+* [Bankalar API’larını açma konusunda istekli](http://odemeteknolojileri.com/2016/10/bankalar-apilarini-acma-konusunda-istekli/)
+* [Bankacılıkta Open API Uygulamaları](http://www.keytorc.com/blog/bankacilikta-open-api-uygulamalari_5958/)
