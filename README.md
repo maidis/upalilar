@@ -16,7 +16,7 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 Keşke Ekşi Sözlük'teki başlığın güncel halini bir okusaydım önce, konuyla ilgili güzel bir site zaten varmış: [RapidAPI](https://rapidapi.com/)
 
 # UPA Sunan Türk İnternet Servisleri
-[A](#a) [B](#b) [C](#c) [Ç](#cc) [D](#d) [E](#e) [F](#f) [G](#g) [Ğ](#gg) [H](#h) [I](#ii) [İ](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [Ö](#oo) [P](#p) [R](#r) [S](#s) [Ş](#ss) [T](#t) [U](#u) [Ü](#uu) [V](#v) [Y](#y) [Z](#z) [0-9](#0) [Q, W, X](#q)
+[A](#a) [B](#b) [C](#c) [Ç](#Ç) [D](#d) [E](#e) [F](#f) [G](#g) [Ğ](#Ğ) [H](#h) [I](#i) [İ](#İ) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [Ö](#Ö) [P](#p) [R](#r) [S](#s) [Ş](#Ş) [T](#t) [U](#u) [Ü](#Ü) [V](#v) [Y](#y) [Z](#z) [0-9](#0-9) [Q, W, X](#q-w-x)
 
 ## [A](#a)
 ### Akbank
@@ -29,7 +29,7 @@ Keşke Ekşi Sözlük'teki başlığın güncel halini bir okusaydım önce, kon
 
 ## [C](#c)
 
-## [Ç](#cc)
+## [Ç](#Ç)
 ### Çevir.com
 * [Çevir.com İngilizce - Türkçe Sözlük API'si](http://www.xn--evir-zoa.com/api)
 
@@ -59,15 +59,15 @@ Keşke Ekşi Sözlük'teki başlığın güncel halini bir okusaydım önce, kon
 ### GittiGidiyor
 * [GittiGidiyor API](http://dev.gittigidiyor.com/)
 
-## [Ğ](#gg)
+## [Ğ](#Ğ)
 
 ## [H](#h)
 ### Hürriyet
 * [Hürriyet Geliştirici Platformu](https://developers.hurriyet.com.tr/)
 
-## [I](#ii)
+## [I](#i)
 
-## [İ](#i)
+## [İ](#İ)
 ### İstanbul Büyükşehir Belediyesi
 * [Şehir Haritası API](http://sehirharitasi.ibb.gov.tr/developer/v1/)
 
@@ -101,7 +101,7 @@ Keşke Ekşi Sözlük'teki başlığın güncel halini bir okusaydım önce, kon
 
 ## [O](#o)
 
-## [Ö](#oo)
+## [Ö](#Ö)
 
 ## [P](#p)
 ### Paraşüt
@@ -116,7 +116,7 @@ Keşke Ekşi Sözlük'teki başlığın güncel halini bir okusaydım önce, kon
 ### sourberry
 * [sourberry API](http://www.sourberry.org/api)
 
-## [Ş](#ss)
+## [Ş](#Ş)
 
 ## [T](#t)
 ### TRT Haber
@@ -129,8 +129,12 @@ Keşke Ekşi Sözlük'teki başlığın güncel halini bir okusaydım önce, kon
 * [Turkcell - GitHub](https://github.com/Turkcell)
 
 ## [U](#u)
+### UPS
+* [UPS Gönderi API'si](https://www.ups.com/content/tr/tr/bussol/browse/online_tools_shipping.html)
+* [UPS Geliştirici Aracı API'leri](https://www.ups.com/upsdeveloperkit?loc=tr_TR)
+* [UPS Geliştirici Aracı API'lerini Entegre Etme](https://www.ups.com/content/tr/tr/resources/techsupport/integrating_apis.html)
 
-## [Ü](#uu)
+## [Ü](#Ü)
 
 ## [V](#v)
 
@@ -142,9 +146,9 @@ Keşke Ekşi Sözlük'teki başlığın güncel halini bir okusaydım önce, kon
 ### Zomato
 * [Zomato API](https://developers.zomato.com/?lang=tr)
 
-## [0-9](#0)
+## [0-9](#0-9)
 
-## [Q, W, X](#q)
+## [Q, W, X](#q-w-x)
 
 # Kaynaklar ve Yararlı Bağlantılar
 ## Genel
