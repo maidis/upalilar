@@ -150,6 +150,15 @@ Keşke Ekşi Sözlük'teki başlığın güncel halini bir okusaydım önce, kon
 
 ## [Q, W, X](#q-w-x)
 
+# Benzer Listeler
+* [Public-APIs](https://github.com/abhishekbanthia/Public-APIs): Tüm internetten seçilmiş bir UPA listesi
+* [public-apis](https://github.com/toddmotto/public-apis): Web geliştirmede kullanılmak üzere halka açık JSON UPA'larının toplu bir listesi
+* [list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers): Python UPA Sarmalayıcıları ve Kütüphaneleri Listesi
+* [cs-apis](https://github.com/honzajavorek/cs-apis): Çek ve Slovak kamusal UPA'ların listesi
+* [listado-apis-publicas-en-chile](https://github.com/juanbrujo/listado-apis-publicas-en-chile): Şili'deki Kamusal UPA'ların Listesi
+* [HomegrownAPIs](https://github.com/AustinAPI/HomegrownAPIs): UPA yayımlayan Austin merkezli şirketlerin (veya takımların) bir listesi
+* [BD-public-api-datasets](https://github.com/SohanChy/BD-public-api-datasets): Bangladeş'teki genel kullanıma açık UPA'ların ve veri takımlarının bir listesi
+
 # Kaynaklar ve Yararlı Bağlantılar
 ## Genel
 * [API veya Platform Sunan Türk Web Servisleri - Ahmet Alp Balkan](https://ahmetalpbalkan.com/blog/api-veya-platform-sunan-turk-web-servisleri/)
@@ -164,10 +173,11 @@ Keşke Ekşi Sözlük'teki başlığın güncel halini bir okusaydım önce, kon
 * [Restful Api Best Practises](http://kimkorkarjavadan.com/restful-api-best-practises/)
 * [Kullanılabilir Uygulama Programlama Arayüzleri](http://www.emo.org.tr/ekler/1db5dd8fa2d87e7_ek.pdf)
 * [import.io Uygulama Programlama Arayüzü](https://mevlutcanvar.com.tr/import-io-uygulama-programlama-arayuzu/272)
+* [awesome-api](https://github.com/Kikobeats/awesome-api)
 
 ## Bankacılık
 * [Bankalar API’larını açma konusunda istekli](http://odemeteknolojileri.com/2016/10/bankalar-apilarini-acma-konusunda-istekli/)
 * [Bankacılıkta Open API Uygulamaları](http://www.keytorc.com/blog/bankacilikta-open-api-uygulamalari_5958/)
 
-## [Notes](#notes)
+# [Notes](#notes)
 Note for developers who don't speak Turkish: here you can find a short and for now far from complete list of Turkish services which offer application programming interface. Some of APIs on the list may not be official.
