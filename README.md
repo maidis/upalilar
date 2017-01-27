@@ -1,3 +1,5 @@
+[Non-native Turkish speaker?](#note)
+
 # UPA'lılar
 Sailfish'e geçtikten sonra resmi olarak UPA sunmayan, bununla da yetinmeyip birilerinin kendi çabalarıyla oluşturduğu resmi olmayan UPA'ların kullanımını engellemeye çalışan servislerin, kullanıcıları ne kadar zor durumda bıraktığını daha yakından gördüm.
 
@@ -162,3 +164,6 @@ Keşke Ekşi Sözlük'teki başlığın güncel halini bir okusaydım önce, kon
 ## Bankacılık
 * [Bankalar API’larını açma konusunda istekli](http://odemeteknolojileri.com/2016/10/bankalar-apilarini-acma-konusunda-istekli/)
 * [Bankacılıkta Open API Uygulamaları](http://www.keytorc.com/blog/bankacilikta-open-api-uygulamalari_5958/)
+
+## [Notes](#note)
+Note for developers who don't speak Turkish: here you can find a short and for now far from complete list of Turkish services which offer application programming interface. Some of APIs on the list may not be official.
