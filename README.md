@@ -11,6 +11,8 @@ Listenenin daha işe yarar olması için Türkiye'de yaygın olarak kullanılan,
 
 Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi olmadığını belirterek ekleyeceğim.
 
+Keşke Ekşi Sözlük'teki başlığın güncel halini bir okusaydım önce, konuyla ilgili güzel bir site zaten varmış: [RapidAPI](https://rapidapi.com/)
+
 # UPA Sunan Türk İnternet Servisleri
 [A](#a) [B](#b) [C](#c) [Ç](#cc) [D](#d) [E](#e) [F](#f) [G](#g) [Ğ](#gg) [H](#h) [I](#ii) [İ](#i) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [Ö](#oo) [P](#p) [R](#r) [S](#s) [Ş](#ss) [T](#t) [U](#u) [Ü](#uu) [V](#v) [Y](#y) [Z](#z) [0-9](#0) [Q, W, X](#q)
 
