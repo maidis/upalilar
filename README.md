@@ -40,6 +40,7 @@ Keşke Ekşi Sözlük'teki başlığın güncel halini bir okusaydım önce, kon
 * [Doviz.com API](https://github.com/prosman/dovizcom-api)
 
 ## [E](#e)
+* [EkşiSözlük API](https://github.com/eksisozluk/api)
 
 ## [F](#f)
 
