@@ -5,7 +5,7 @@ Tüm dünyadan UPA sunan servisleri listeleyen bu amaca özel bir site var mı d
 
 Şimdilik sadece Türkiye için bir onur listesi olarak kalsın bu şekilde, ileride bu yönde bir ihtiyaç olduğuna dair ikna olursak kullandığımız tüm dünyadaki servisleri kapsayacak şekilde daha genel bir hale çeviririz.
 
-Bu arada UPA'lar hakkında hiçbir uzmanlığım bulunmamaktadır. UPA olmayan bir şey UPA dersem veya başka hatalar yaparsam düzeltmekten lütfen çekinmeyin.
+Bu arada UPA'lar hakkında hiçbir uzmanlığım bulunmamaktadır. UPA olmayan bir şeye UPA dersem veya başka hatalar yaparsam düzeltmekten lütfen çekinmeyin.
 
 Listenenin daha işe yarar olması için Türkiye'de yaygın olarak kullanılan, UPA'ları hakkında Türkçe geliştirme belgeleri sunan servisleri de listeye ekliyorum şimdiden.
 
