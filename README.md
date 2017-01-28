@@ -31,6 +31,9 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 ### Çevir.com
 * [Çevir.com İngilizce - Türkçe Sözlük API'si](http://www.xn--evir-zoa.com/api)
 
+### Çevre ve Şehircilik Bakanlığı
+* [Atlas API](http://www.csb.gov.tr/gm/cbs/index.php?Sayfa=sayfa&Tur=webmenu&Id=15231)
+
 ## [D](#d)
 ### Diyanet İşleri Başkanlığı
 * [Diyanet İşleri Başkanlığı Namaz Vakitleri API](http://www.diyanet.gov.tr/tr/PrayerTime/PrayerTimesList): Doğrudan bir UPA sunuyor mu emin değilim
@@ -42,6 +45,10 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 ## [E](#e)
 ### Ekşi Sözlük 
 * [EkşiSözlük API](https://github.com/eksisozluk/api): Resmi değil
+* [ssg++ API](http://ssgpp.github.io/ssgpp-api.html): Resmi değil
+
+### Elektronik Kimlik Doğrulama Sistemi
+* [TCKK API](http://www.ekds.gov.tr/destek/yazilim-ve-kutuphane/tckk-api)
 
 ### En Son Haber
 * [Ensonhaber.com API](https://github.com/prosman/ensonhabercom-api): Resmi değil
@@ -127,6 +134,9 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 * [Turkcell - GitHub](https://github.com/Turkcell)
 
 ## [U](#u)
+### uludağ sözlük
+* [uludağ sözlük api](https://www.uludagsozluk.com/api/)
+
 ### UPS
 * [UPS Gönderi API'si](https://www.ups.com/content/tr/tr/bussol/browse/online_tools_shipping.html)
 * [UPS Geliştirici Aracı API'leri](https://www.ups.com/upsdeveloperkit?loc=tr_TR)
