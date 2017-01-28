@@ -60,6 +60,9 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 * [ePttAVM Entegrasyon API için PHP Client](https://github.com/ePttAVM/api-client)
 * [ePttAVM Entegrasyon](http://www.stockmount.com/tr-tr/epttavm-entegrasyon.html)
 
+### Etkinlik.com.tr
+* [Etkinlik.com.tr'nin PHP API Kütüphanesi](https://github.com/etkinlikcomtr/api)
+
 ## [F](#f)
 ### Fanatik
 * [Fanatik.com API](https://github.com/prosman/fanatik-api): Resmi değil
