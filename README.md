@@ -28,6 +28,9 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 ## [C](#c)
 
 ## [Ç](#Ç)
+### Çamlıca Kitap
+* [Camlicakitap.com'un PHP API Kütüphanesi](https://github.com/camlicakitap/api)
+
 ### Çevir.com
 * [Çevir.com İngilizce - Türkçe Sözlük API'si](http://www.xn--evir-zoa.com/api)
 
@@ -52,6 +55,10 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 
 ### En Son Haber
 * [Ensonhaber.com API](https://github.com/prosman/ensonhabercom-api): Resmi değil
+
+### ePttAVM
+* [ePttAVM Entegrasyon API için PHP Client](https://github.com/ePttAVM/api-client)
+* [ePttAVM Entegrasyon](http://www.stockmount.com/tr-tr/epttavm-entegrasyon.html)
 
 ## [F](#f)
 ### Fanatik
