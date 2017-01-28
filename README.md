@@ -13,8 +13,6 @@ Listenin daha işe yarar olması için Türkiye'de yaygın olarak kullanılan, U
 
 Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi olmadığını belirterek ekleyeceğim.
 
-Keşke Ekşi Sözlük'teki başlığın güncel halini bir okusaydım önce, konuyla ilgili güzel bir site zaten varmış: [RapidAPI](https://rapidapi.com/)
-
 # UPA Sunan Türk İnternet Servisleri
 [A](#a) [B](#b) [C](#c) [Ç](#Ç) [D](#d) [E](#e) [F](#f) [G](#g) [Ğ](#Ğ) [H](#h) [I](#i) [İ](#İ) [J](#j) [K](#k) [L](#l) [M](#m) [N](#n) [O](#o) [Ö](#Ö) [P](#p) [R](#r) [S](#s) [Ş](#Ş) [T](#t) [U](#u) [Ü](#Ü) [V](#v) [Y](#y) [Z](#z) [0-9](#0-9) [Q, W, X](#q-w-x)
 
@@ -151,6 +149,8 @@ Keşke Ekşi Sözlük'teki başlığın güncel halini bir okusaydım önce, kon
 ## [Q, W, X](#q-w-x)
 
 # Benzer Listeler
+* [RapidAPI](https://rapidapi.com/): Dünya çapında birçok UPA'yı bulmaya ve kullanmaya imkan verren bir UPA marketi
+* [APIs.guru](https://apis.guru): İnternet UPA'larının Vikipedisi. REST UPA belirtimlerinin OpenAPI 2.0 biçiminde dizini
 * [Public-APIs](https://github.com/abhishekbanthia/Public-APIs): Tüm internetten seçilmiş bir UPA listesi
 * [public-apis](https://github.com/toddmotto/public-apis): Web geliştirmede kullanılmak üzere halka açık JSON UPA'larının toplu bir listesi
 * [list-of-python-api-wrappers](https://github.com/realpython/list-of-python-api-wrappers): Python UPA Sarmalayıcıları ve Kütüphaneleri Listesi
