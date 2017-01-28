@@ -1,4 +1,4 @@
-[Non-native Turkish speaker?](#notes)
+[Don't speak Turkish?](#notes)
 
 # UPA'lılar
 Sailfish'e geçtikten sonra resmi olarak UPA sunmayan, bununla da yetinmeyip birilerinin kendi çabalarıyla oluşturduğu resmi olmayan UPA'ların kullanımını engellemeye çalışan servislerin, kullanıcıları ne kadar zor durumda bıraktığını daha yakından gördüm.
