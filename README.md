@@ -193,10 +193,7 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 ## Geliştirme
 * [Nefret Etmeyeceğiniz Uygulama Programlama Arayüzleri (API) İnşa Edin](https://leanpub.com/build-apis-you-wont-hate-tr)
 * [API'lerinizi nasıl dökümante edersiniz?](https://blog.kodcu.com/2014/06/api-lerinizi-nasil-dokumante-edersiniz/)
-* [Herkes RESTful Web API tasarlayabilir](http://fehmicansaglam.net/herkes-restful-web-api-tasarlayabilir/)
-* [Restful Api Best Practises](http://kimkorkarjavadan.com/restful-api-best-practises/)
 * [Kullanılabilir Uygulama Programlama Arayüzleri](http://www.emo.org.tr/ekler/1db5dd8fa2d87e7_ek.pdf)
-* [import.io Uygulama Programlama Arayüzü](https://mevlutcanvar.com.tr/import-io-uygulama-programlama-arayuzu/272)
 * [awesome-api](https://github.com/Kikobeats/awesome-api)
 
 ## Bankacılık
