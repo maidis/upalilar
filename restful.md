@@ -589,6 +589,16 @@ curl https://api.github.com -H Accept:application/vnd.github.v3+json
 
 ## C++'ın Sahneye Çıkışı
 
+C++, o yolda ilerlese de şu an pilleri içinde bir programlama dili değildir. Bununla birlikte geliştirdiğiniz yazılıma en uygun enerji sistemini kolayca kullanmanıza izin verir. Bunun için genel olarak şu iki seçenekten birini tercih etmelisiniz:
+
+- Qt ve benzeri, her şeyi bir arada sunan kütüphaneler
+- Her bir tek iş için tasarlanmış ayrı ayrı kütüphaneler
+
+### Qt Yolu
+
+### Ayrı Ayrı kütüphaneler
+
+
 
 ## Özet
 Bu makalede, bir REST UPA'sının ne olduğunu; `GET`, `POST`, `PUT`, `PATCH` ve `DELETE` yöntemleriyle istekte bulunmak için curl'ü nasıl kullanabileceğinizi öğrendiniz. Ayrıca, isteklerinizi `-u` seçeneğiyle nasıl kimlik doğrulamasıyla yapabileceğinizi ve HTTP durumlarının ne anlama geldiğini de öğrendiniz.
