@@ -147,6 +147,9 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 * [Turkcell Akıllı Yetenekler API](https://turkcellpartner.com/CustomContent.aspx?contentId=5e87f1ca-8c52-408f-bc5b-ad86824023c4)
 * [Turkcell - GitHub](https://github.com/Turkcell)
 
+### Türkçe Altyazı
+* [subTR](https://github.com/sbilketay/subTR): turkcealtyazi.org için resmi olmayan bir UPA
+
 ## [U](#u)
 ### uludağ sözlük
 * [uludağ sözlük api](https://www.uludagsozluk.com/api/)
