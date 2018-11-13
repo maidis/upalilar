@@ -203,6 +203,7 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 * [API kullanımının şirketler için stratejik değeri](http://www.cio.com.tr/etkinlik/api-kullaniminin-sirketler-icin-stratejik-degeri/)
 
 ## Geliştirme
+* [REST UPA'larını Anlamak ve Kullanmak](./restful.md)
 * [Nefret Etmeyeceğiniz Uygulama Programlama Arayüzleri (API) İnşa Edin](https://leanpub.com/build-apis-you-wont-hate-tr)
 * [API'lerinizi nasıl dökümante edersiniz?](https://blog.kodcu.com/2014/06/api-lerinizi-nasil-dokumante-edersiniz/)
 * [Kullanılabilir Uygulama Programlama Arayüzleri](http://www.emo.org.tr/ekler/1db5dd8fa2d87e7_ek.pdf)
