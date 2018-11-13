@@ -71,6 +71,9 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 ### GaniPara
 * [Ganipara API](http://ganipara.com/api)
 
+### Garanti Bankası
+* [Garanti API Store](https://www.garanti.com.tr/tr/bireysel/subesiz/garanti-api-store.page)
+
 ### GittiGidiyor
 * [GittiGidiyor API](http://dev.gittigidiyor.com/)
 
@@ -111,6 +114,9 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 * [Koinim Ticker API](https://koinim.com/ticker/)
 * [koinim.com API kullanımı (PHP, Perl)](http://www.ahmetkakacak.com.tr/?a=135): Resmi değil
 * [Koinim-Python-API](https://github.com/cemkiy/Koinim-Python-API): Resmi değil
+
+### Kuveyt Türk Katılım Bankası
+* [Kuveyt Türk API](https://www.kuveytturk.com.tr/subesiz-bankacilik/api-bankaciligi/genel-ozellikler)
 
 ## [L](#l)
 
@@ -166,6 +172,9 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 ## [Y](#y)
 ### Yapay Tech
 * [Dahi API](http://www.yapaytech.com/dahiapi.html)
+
+### Yapı Kredi Bankası
+* [Yapı Kredi Bankası API Portal](https://apiportal.yapikredi.com.tr/)
 
 ## [Z](#z)
 ### Zomato
