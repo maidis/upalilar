@@ -43,7 +43,7 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 * [GitHub'daki çeşitli resmi olmayan UPA'lar](https://github.com/search?o=desc&q=diyanet&s=updated&type=Repositories&utf8=%E2%9C%93=)
 
 ### Doviz.com
-* [Doviz.com API](https://github.com/prosman/dovizcom-api)
+* ~~[Doviz.com API](https://github.com/prosman/dovizcom-api): Resmi değil, yasal uyarı nedeniyle bilgiler kaldırıldı~~
 
 ## [E](#e)
 ### Ekşi Sözlük 
