@@ -93,9 +93,6 @@ Resmi olmayan ama bir şekilde işe yarar şekilde çalışan UPA'ları da resmi
 ### İstanbul Büyükşehir Belediyesi
 * [Şehir Haritası API](http://sehirharitasi.ibb.gov.tr/developer/v1/)
 
-### İşte Oyun
-* [İşte Oyun API](http://www.isteoyun.com/gelistiriciler/)
-
 ### iyzico
 * [iyzi BIN Kontrol](https://www.iyzico.com/cozumlerimiz/iyzi-bin-kontrol/)
 * [iyzico - GitHub](https://github.com/iyzico)
